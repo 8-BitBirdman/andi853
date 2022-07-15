@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @andi853
-- 👀 I’m interested in ... everything
-- 🌱 I’m currently learning ... a lot
-- 💞️ I’m looking to collaborate on ... a lot
-- 📫 How to reach me ...
+- 👋 Hi, I’m @andi853 🏀
+- 👀 I’m interested in basically everything tech 🖥
+- 🌱 I’m currently learning a lot 🌍
+- 💞️ I’m looking to collaborate on everything I can 👨‍🔧
 
 <!---
 andi853/andi853 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
